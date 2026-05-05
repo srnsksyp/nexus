@@ -61,10 +61,10 @@ Nexus is a **browser-based AI-powered IDE**, designed to bring intelligent codin
 
 ### 🚧 More Features
 
-- AI Agent  
-- WebContainer Execution  
-- GitHub Integration  
-- AI Project Generation  
+- Branch 13: AI Agent  
+- Branch 14: WebContainer Execution  
+- Branch 15: GitHub Integration  
+- Branch 16: AI Project Generation  
 
 ---
 
